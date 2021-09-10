@@ -1,3 +1,3 @@
 # parallel_programming
 
-Prácticas donde hago uso de: C, OpenMP y OpenMPI
+Prácticas de programación paralela donde hago uso de: C, OpenMP y OpenMPI
